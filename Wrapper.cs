@@ -14,7 +14,7 @@ using System.Text;
 /// 2- Get all user info.
 /// 3- Register user.
 /// 
-/// Please make sure all required plugins are installed on wordpress. <see cref="http://faisal-k.com/?page_id=130"/>
+/// Please make sure all required plugins are installed on wordpress. <see cref="https://github.com/EntropyDevelopments/WP-Wrapper"/>
 /// </remarks>
 /// 
 namespace WP_Wrapper
