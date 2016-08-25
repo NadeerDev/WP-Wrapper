@@ -26,7 +26,7 @@ View [releases](https://github.com/EntropyDevelopments/WP-Wrapper/releases) for 
 ----------
 ## Unity Example project ##
 
-> Working on it
+Available in releases. Asset Store is awaiting approval.
 
 ## License ##
 Provided under MIT license. Read license file for more information.
